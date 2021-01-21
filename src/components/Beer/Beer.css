@@ -1,0 +1,34 @@
+.beer__image{
+    width: 75px;
+}
+.beer__description {
+    display: block;
+   
+}
+
+h1 {
+    font-family: fantasy;
+    text-decoration: underline;
+    text-align: center;
+    
+   
+}
+h3 {
+ color: red;
+}
+span {
+    font-style: italic;
+    font-weight: bold;
+}
+.App{
+    border: red, dotted, 2px;
+    background-color: rgb(100, 34, 27);
+  
+}
+
+ul {
+    display: grid;
+    grid-template-areas: "div div div";
+                        
+}
+
